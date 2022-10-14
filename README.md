@@ -5,7 +5,7 @@
 {{tips.DATA}}  
 
 当前 {{city.DATA}} 天气: {{ weather.DATA }}   
-天气更新时间: {{weatherUpdateTime.DATA}}
+天气更新时间: {{weatherUpdateTime.DATA}}  
 湿       度: {{ humidity.DATA }}   
 风向风力: {{ wind.DATA }}   
 pm 2.5  : {{ pm25.DATA }}  
