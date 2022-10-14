@@ -1,6 +1,7 @@
 **示例模板：**
 
-现在是 {{ date.DATA }} {{ week_day.DATA }}  
+现在是 {{ date.DATA }} {{ week_day.DATA }}
+
 {{tips.DATA}}  
 
 当前 {{city.DATA}} 天气: {{ weather.DATA }}   
