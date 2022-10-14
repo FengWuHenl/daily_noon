@@ -1,6 +1,6 @@
 **示例模板：**
 
-现在是 {{ date.DATA }} {{ week_day.DATA }}
+今天是 {{ date.DATA }} {{ week_day.DATA }}
 
 {{tips.DATA}}  
 
