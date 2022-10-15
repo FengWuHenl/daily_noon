@@ -2,11 +2,11 @@
 
 DAILY_TIME: "11:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
-START_DATE: "2022-11-11" # 运行时间
+START_DATE: "2022-10-11" # 运行时间
 CITY: "北京"
 
 BIRTHDAY:
-  - "01-01"
+  - "01-10"
 
 APP_ID: "微信公众平台的 APP ID"
 APP_SECRET: "微信公众平台的 APP SECRET"
